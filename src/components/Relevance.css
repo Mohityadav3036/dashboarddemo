@@ -1,0 +1,15 @@
+/* src/components/Dashboard.css */
+.Filters {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.Filters label {
+    margin-bottom: 10px;
+}
+
+.chart-container {
+    width: 100%;
+    height: 800px;
+}
